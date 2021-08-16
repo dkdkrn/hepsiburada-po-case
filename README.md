@@ -4,7 +4,7 @@ Bu soruda, Hepsiburada.com'da olmayıp rakiplerinde bulunan bir özellik için i
 
 ## Hepsiburada Q2
 
-Bu soruda, indirim uygulama algoritması tasarlanması istenmiştir
+Bu soruda, indirim uygulama algoritması tasarlanması istenmiştir.
 
 ## Hepsiburada Q3
 
