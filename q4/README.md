@@ -6,7 +6,7 @@ Bu soruda, uçtan uça takip edilen başarısız sonuçlanan bir projenin açık
 Müşterilere sunulacak yeni bir kart.
 
 ## İhtiyaç 
-POS ve ATM üzerinden gerçekleşen her satış ve nakit avans işleminde kartın bağlı olduğu hesaptan işlem tutarı kadar kredi kullandırımı amaçlanmıştır. 
+POS ve ATM kanallarından gerçekleşen her satış ve nakit avans işleminde kartın bağlı olduğu hesaptan işlem tutarı kadar kredi kullandırımı amaçlanmıştır. 
 
 ## Hedef 
 Yeni üretilecek kartın kapalı devre yani sadece kendi bankasının atm ve poslarından işlem yapabilmesi, kart sayısı ve kredi sayısında artış hedeflenlenmiştir.  
