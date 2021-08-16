@@ -14,7 +14,7 @@ Yeni üretilecek kartın kapalı devre yani sadece kendi bankasının atm ve pos
 ## Sonuç 
 Kapalı devre talep edilen kart için yeni bir bin alımı, sertifikasyon ve yazılım çalışmaları  tüm bankalarda kullanılacak şekilde yapılmadı bu sebeple kart üretime alınsa da aynı özelliklere sahip  farklı ve yaygın olarak kullanılarak bir ürün daha bulunduğu için Faz-1'de sonlarıldı.
 
-## Neden Başarısız olduk?
+## Neden başarısız olduk?
 
   - Üretimde olan bir ürünün 100%’e yakın bir oranla aynı özelliklere sahip olan bu kart, müşteriler tarafından tercih edilmedi.
   - Proje kapsamından başlanılarak; hedef kitle, kart özelliği, maliyet, insan/gün planlaması doğru planlanmadı. 
