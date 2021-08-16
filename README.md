@@ -8,7 +8,7 @@ Bu soruda, indirim uygulama algoritması tasarlanması istenmiştir.
 
 ## Hepsiburada Q3
 
-Bu soruda, uçtan uça takip edilen bir projenin açıklanması istenmiştir.
+Bu soruda, uçtan uça takip edilen ve başarılı olan bir projenin açıklanması istenmiştir.
 
 
 ## Hepsiburada Q4
