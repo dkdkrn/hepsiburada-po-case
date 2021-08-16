@@ -1,4 +1,4 @@
-## Hepsiburada Q1
+## [Hepsiburada Q1](q1/README.md)
 
 Bu soruda, Hepsiburada.com'da olmayıp rakiplerinde bulunan bir özellik için implementasyon çalışması istenmiştir. Yapılan araştırmaya göre, 2 adet rakip firmada bulunup Hepsiburada.com'da bulunmayan "Şimdi Al" özelliği gerçeklenmeye çalışılmıştır.
 
