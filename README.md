@@ -1,2 +1,2 @@
-# hepsiburad-po-case
+# hepsiburada-po-case
 Hepsiburada Private Case
