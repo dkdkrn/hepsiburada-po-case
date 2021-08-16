@@ -13,4 +13,4 @@ Bu soruda, uçtan uça takip edilen bir projenin açıklanması istenmiştir.
 
 ## Hepsiburada Q4
 
-Bu soruda, uçtan uça takip edilen bir projenin açıklanması ve başarılı olması için nelerin yapılması gerektiğinin anlatılması istenmiştir.
+Bu soruda, uçtan uça takip edilen başarısız sonuçlanan bir projenin açıklanması ve başarılı olması için nelerin yapılması gerektiğinin anlatılması istenmiştir.
