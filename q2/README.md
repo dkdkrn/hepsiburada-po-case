@@ -17,4 +17,4 @@ Bu soruda yukarıda belirtilen indirimlerin uygulanması için kullanılması ge
 
 
 ## Akış Diyagramı
-![Algoritma](assets/hepsiburada_q2_algoritma.png)
+![Algoritma](assets/hepsiburada_q2_algoritma_.png)
