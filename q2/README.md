@@ -15,5 +15,6 @@ Hepsiburada.com üzerinde ürün üzerinde birden fazla indirim uygulanabilir.
 
 Bu soruda yukarıda belirtilen indirimlerin uygulanması için kullanılması gereken algoritma tanımı istenmiştir.
 
+
 ## Akış Diyagramı
 ![Algoritma](assets/hepsiburada_q2_algoritma.png)
